@@ -14,6 +14,7 @@
 <p><b>Introduction</b> – it would be good to state name, why you work on Bitcoin Core and a few of the major contributions you have made to Bitcoin Core [15-45 seconds].
 <p><b>Question</b> – Succinctly phrase the question [You can find 100+ questions below]. [5-20 seconds]
 <p><b>Answer</b> – Provide the planned and organized answer. [5-15 minutes]
+<p><b>Current Project</b> - Something about your current project(s) you are working on with Bitcoin Core or otherwise find interesting or appropriate to share with the audience. [5-10 minutes]
 <p><b>Conclusion</b> – it would be good to include where people can find more from you [website, Twitter, etc.] [5-15 seconds]
 
 <p>Segments will be polished and distributed through a wide variety of channels to get as much impact as possible.
