@@ -20,7 +20,7 @@
 <p>Your contributions will be greatly force multiplied to be useful and helpful for users and the Bitcoin Core project.
 <p>Thank you!
 
-<p><b>QUESITONS</b>
+<p><b>QUESTIONS</b>
 
 <p>These are some suggested questions. The audience will be people interested in Bitcoin and blockcahin but they might be developers, lawyers, bankers, etc. The goal is to have widely applicable easy questions/answers but also very hard and technical questions/answers with everything in between.
 
